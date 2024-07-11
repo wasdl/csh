@@ -26,3 +26,7 @@
 ```python
 print('hello world')
 ```
+# 이미지
+![이미지 설명](https://github.com/wasdl/csh/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80.webp)
+
+ 
